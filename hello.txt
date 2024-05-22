@@ -1,7 +1,2 @@
 hello world
-<<<<<<< HEAD
-hello dog
-=======
->>>>>>> conflict-2
-meo meo
-hello cat
+hello mimon
