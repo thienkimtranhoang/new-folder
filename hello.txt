@@ -3,4 +3,5 @@ hello world
 hello dog
 =======
 >>>>>>> conflict-2
+meo meo
 hello cat
