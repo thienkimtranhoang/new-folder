@@ -1,3 +1,6 @@
 hello world
+<<<<<<< HEAD
 hello dog
+=======
+>>>>>>> conflict-2
 hello cat
